@@ -4,8 +4,6 @@ React based light weight admin panel which can be easy to use in any project. It
 
 ## File Structure
 
-Within the download you'll find the following directories and files:
-
 ```
 light-bootstrap-dashboard-react
 .
