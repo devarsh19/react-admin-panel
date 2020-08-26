@@ -1,20 +1,3 @@
-/*!
-
-=========================================================
-* Light Bootstrap Dashboard React - v1.3.0
-=========================================================
-
-* Product Page: https://www.creative-tim.com/product/light-bootstrap-dashboard-react
-* Copyright 2019 Creative Tim (https://www.creative-tim.com)
-* Licensed under MIT (https://github.com/creativetimofficial/light-bootstrap-dashboard-react/blob/master/LICENSE.md)
-
-* Coded by Creative Tim
-
-=========================================================
-
-* The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-*/
 import React, { Component } from "react";
 import { Grid } from "react-bootstrap";
 
@@ -26,25 +9,29 @@ class Footer extends Component {
           <nav className="pull-left">
             <ul>
               <li>
-                <a href="#pablo">Home</a>
+                <a
+                  href="http://www.theversatileexpress.ca/terms"
+                  target="_blank"
+                >
+                  Terms of Service
+                </a>
               </li>
               <li>
-                <a href="#pablo">Company</a>
-              </li>
-              <li>
-                <a href="#pablo">Portfolio</a>
-              </li>
-              <li>
-                <a href="#pablo">Blog</a>
+                <a
+                  href="http://www.theversatileexpress.ca/privacy-policy"
+                  target="_blank"
+                >
+                  Privacy Policy
+                </a>
               </li>
             </ul>
           </nav>
           <p className="copyright pull-right">
             &copy; {new Date().getFullYear()}{" "}
             <a href="http://www.creative-tim.com?ref=lbr-footer">
-              Creative Tim
+              The Versatile Express
             </a>
-            , made with love for a better web
+            , made with care for a better dispatching orders
           </p>
         </Grid>
       </footer>

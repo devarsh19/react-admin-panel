@@ -21,7 +21,10 @@ import { Row, Col } from "react-bootstrap";
 export class StatsCard extends Component {
   render() {
     return (
-      <div className="card card-stats">
+      <div
+        className="card card-stats"
+        style={{ width: "auto", height: "145px" }}
+      >
         <div className="content">
           <Row>
             <Col xs={5}>

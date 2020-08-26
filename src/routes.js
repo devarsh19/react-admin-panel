@@ -24,8 +24,7 @@ import Maps from "views/Maps.jsx";
 import Notifications from "views/Notifications.jsx";
 import Upgrade from "views/Upgrade.jsx";
 
-const dashboardRoutes = [
-  {
+const dashboardRoutes = [{
     path: "/dashboard",
     name: "Dashboard",
     icon: "pe-7s-graph",
@@ -33,55 +32,48 @@ const dashboardRoutes = [
     layout: "/admin"
   },
   {
-    path: "/user",
-    name: "User Profile",
-    icon: "pe-7s-user",
-    component: UserProfile,
-    layout: "/admin"
-  },
-  {
     path: "/table",
-    name: "Table List",
+    name: "Orders",
     icon: "pe-7s-note2",
     component: TableList,
     layout: "/admin"
   },
   {
+    path: "/user",
+    name: "Users",
+    icon: "pe-7s-user",
+    component: UserProfile,
+    layout: "/admin"
+  },
+  {
     path: "/typography",
-    name: "Typography",
-    icon: "pe-7s-news-paper",
+    name: "Businesses",
+    icon: "pe-7s-map-2",
     component: Typography,
     layout: "/admin"
   },
   {
     path: "/icons",
-    name: "Icons",
-    icon: "pe-7s-science",
+    name: "Drivers",
+    icon: "pe-7s-car",
     component: Icons,
     layout: "/admin"
   },
   {
-    path: "/maps",
-    name: "Maps",
-    icon: "pe-7s-map-marker",
+    path: "/reports",
+    name: "Reports",
+    icon: "pe-7s-news-paper",
     component: Maps,
     layout: "/admin"
   },
-  {
-    path: "/notifications",
-    name: "Notifications",
-    icon: "pe-7s-bell",
-    component: Notifications,
-    layout: "/admin"
-  },
-  {
-    upgrade: true,
-    path: "/upgrade",
-    name: "Upgrade to PRO",
-    icon: "pe-7s-rocket",
-    component: Upgrade,
-    layout: "/admin"
-  }
+  // {
+  //   path: "/notifications",
+  //   name: "Notifications",
+  //   icon: "pe-7s-bell",
+  //   component: Notifications,
+  //   layout: "/admin"
+  // },
+
 ];
 
 export default dashboardRoutes;
