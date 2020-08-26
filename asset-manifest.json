@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-admin-panel/static/css/main.f7fca948.chunk.css",
+    "main.js": "/react-admin-panel/static/js/main.0c3ba727.chunk.js",
+    "main.js.map": "/react-admin-panel/static/js/main.0c3ba727.chunk.js.map",
+    "runtime~main.js": "/react-admin-panel/static/js/runtime~main.2307e816.js",
+    "runtime~main.js.map": "/react-admin-panel/static/js/runtime~main.2307e816.js.map",
+    "static/css/2.cc4bd3a9.chunk.css": "/react-admin-panel/static/css/2.cc4bd3a9.chunk.css",
+    "static/js/2.11fbaa67.chunk.js": "/react-admin-panel/static/js/2.11fbaa67.chunk.js",
+    "static/js/2.11fbaa67.chunk.js.map": "/react-admin-panel/static/js/2.11fbaa67.chunk.js.map",
+    "index.html": "/react-admin-panel/index.html",
+    "precache-manifest.42b0a6f96bbee63e59626c928bac9b78.js": "/react-admin-panel/precache-manifest.42b0a6f96bbee63e59626c928bac9b78.js",
+    "service-worker.js": "/react-admin-panel/service-worker.js",
+    "static/css/2.cc4bd3a9.chunk.css.map": "/react-admin-panel/static/css/2.cc4bd3a9.chunk.css.map",
+    "static/css/main.f7fca948.chunk.css.map": "/react-admin-panel/static/css/main.f7fca948.chunk.css.map",
+    "static/media/pe-icon-7-stroke.css": "/react-admin-panel/static/media/Pe-icon-7-stroke.c45f7de0.svg",
+    "static/media/face-3.jpg": "/react-admin-panel/static/media/face-3.ce7a6b79.jpg",
+    "static/media/bootstrap.min.css": "/react-admin-panel/static/media/glyphicons-halflings-regular.fa277232.woff",
+    "static/media/reactlogo.png": "/react-admin-panel/static/media/reactlogo.9b864b36.png",
+    "static/media/sidebar-1.jpg": "/react-admin-panel/static/media/sidebar-1.6be21e8a.jpg",
+    "static/media/sidebar-2.jpg": "/react-admin-panel/static/media/sidebar-2.7a4ce7cc.jpg",
+    "static/media/sidebar-3.jpg": "/react-admin-panel/static/media/sidebar-3.34535b95.jpg",
+    "static/media/sidebar-4.jpg": "/react-admin-panel/static/media/sidebar-4.7bc259fd.jpg"
+  }
+}
